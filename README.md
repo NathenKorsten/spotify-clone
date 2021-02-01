@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Spotify clone using REACT and the spotify API
 
 A lightweight clone of spotify using the spotify API and REACT
 This site may look empty depending on when it is open. As of 2/1/2021 I have not yet used spotify, and
